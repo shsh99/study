@@ -1,0 +1,62 @@
+body {
+  background: #fdfafc;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 16px;
+  margin: 0;
+}
+
+a {
+  color: #792eb4;
+  /* 밑줄 없애기 */
+  text-decoration: none;
+}
+
+p {
+  /* 줄간격을 글자 크기의 1.5배로 */
+  line-height: 1.5;
+}
+
+.header {
+  background-color: #fcfcfc;
+  border-bottom: 1px solid #efefef;
+  font-family: 'Abril Fatface';
+  font-size: 20px;
+  padding: 14px;
+  text-align: center;
+}
+
+.info {
+  margin: 32px 0;
+  text-align: center;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 900;
+  margin: 8px 0;
+}
+
+.date {
+  color: #bdbdbd;
+  font-size: 12px;
+  font-weight: 400;
+  margin: 8px 0 32px;
+}
+
+.cover {
+  width: 611px;
+}
+
+.content {
+  margin: 32px auto;
+  width: 468px;
+}
+
+.headline {
+  font-weight: 700;
+}
+
+.author {
+  color: #bdbdbd;
+  font-size: 12px;
+}
