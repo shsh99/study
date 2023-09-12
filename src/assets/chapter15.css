@@ -1,0 +1,29 @@
+﻿.list {
+    text-align: left;
+    max-width: 750px;
+    margin: auto;
+  }
+  
+  .submit-form {
+    max-width: 300px;
+    margin: auto;
+  }
+  
+  .edit-form {
+    max-width: 300px;
+    margin: auto;
+  }
+
+  .list-group-item {
+    text-align: center;
+    max-width: 400px;
+    padding: 10px; /* 목록 아이템의 안쪽 여백 설정 */
+    margin: 5px 0; /* 목록 아이템 간격 설정 */
+    border: 1px solid #ccc; /* 목록 아이템 테두리 설정 */
+    border-radius: 5px; /* 목록 아이템 테두리 둥글게 설정 */
+  }
+  .h3 {
+    text-align: center;
+    color: #206e2d;
+    font-weight: bold;
+  }
